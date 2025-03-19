@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "message",
+						"type": "string"
+					}
+				],
+				"name": "Log",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "bar",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "foo",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"033ParentFunction.sol": "F"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"033ParentFunction.sol": {
+			"keccak256": "0xbb8d708d64ddb3dfc5c2975ede1a0c76f506cb9ab23e645ba42a7850468b53bb",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f57d2c380c34de0d41b8caa0e32caf4c9268ad13ba55a1d78ee88dacafd9bdc3",
+				"dweb:/ipfs/QmcqANiCRky7NV5dTUDhjd18f6CNFtwsYRAtAxu77K8zcT"
+			]
+		}
+	},
+	"version": 1
+}

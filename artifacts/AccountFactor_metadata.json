@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"044New.sol": "AccountFactor"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"044New.sol": {
+			"keccak256": "0xbe5b6e180ef86e1f00d610331291681bed48738fb7bb5c87d48d1828fc6b28f2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ed901d8bb1a1411d6001cad6cf55706e98d96e6927cf939c73fb8f7a7a10153c",
+				"dweb:/ipfs/QmWEUxH7TnoMhrsuY3rTqxVgzos2hR15yTP22PQ4GmFa8f"
+			]
+		}
+	},
+	"version": 1
+}
